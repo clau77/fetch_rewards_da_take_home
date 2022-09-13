@@ -11,11 +11,14 @@ Star schema is the data warehouse version and will be useful for scaled data siz
 
 
 #Second: Second_SQL_queries.sql
+
 6 SQL quries
 
 #Third : Third_data_quality_check.ipynb
+
 Python code for data cleansing and analysis
 
 #forth: Fourth_email_v1.pdf
+
 Written reports in email format
 
